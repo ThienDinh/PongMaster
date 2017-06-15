@@ -11,6 +11,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thien Dinh, Thanh Pham",
+  "author": "Thanh Pham, Creed Allen, Thien Dinh",
   "license": "ISC"
 }
