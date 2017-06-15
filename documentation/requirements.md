@@ -1,4 +1,4 @@
 #Pong Master
-(pongmaster.png)
+![Game Homepage](pongmaster.png)
 ##Requirements Specification
 *Users can see the rooms list or lobby.
