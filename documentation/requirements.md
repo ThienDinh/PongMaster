@@ -28,6 +28,10 @@
   - Rationale: There may be some toxic player.
   - Originator: THANH PHAM.
   - Fit Criterion: I do what I want.
+- Users who create a room and await for other players can see the global chat (lobby chat).
+ - Rationale: Showing global chat helps players know that server is still online, also he or she can ask other players to join.
+ _ Originator: Thien.
+ _ Fir Criterion: Players should see the global chat continously updated.
 ### Nonfunctional Requirements
 - Real-time chat must be quick.
   - Rationale: If communication is delayed, it would cause hassle to the participants.
