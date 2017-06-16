@@ -36,6 +36,10 @@
   - Rationale: The game does not require players to create user account, so they have to enter their name everytime they come to the web game.
   - Originator: Thien.
   - Fit Criterion: Users should be able to create names using alphanumeric characters.
+- Players in the room should see each other's names on each side.
+  - Rationale: Since the pong game is drawn in black and white only, not showing which side the player is playing will lead to confusion.
+  - Originator: Thien.
+  - Fit Criterion: Players always see each other's name easily.
 ### Nonfunctional Requirements
 - Real-time chat must be quick.
   - Rationale: If communication is delayed, it would cause hassle to the participants.
