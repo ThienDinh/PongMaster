@@ -16,6 +16,18 @@
   - Rationale: Text alone is not expressive, so little emoticons would make it more interesting, and it's also fast and easy to be embeded.
   - Originator: Thien.
   - Fit Criterion: Users should be able to insert at most 5 emoticons in the title of the room or in a single message.
+- Room owner can invite other people into the room.
+  - Rationale: The game only start if it has at least two players.
+  - Originator: THANH PHAM.
+  - Fit Criterion: Owner should be able to invite at least 1 player.
+- Room owner can kick other people out of the room.
+  - Rationale: The game only start if it has at least two players.
+  - Originator: THANH PHAM.
+  - Fit Criterion: Owner should be able to kick at most 1 player.
+- Users have the ability to quit the waiting room.
+  - Rationale: There may be some toxic player.
+  - Originator: THANH PHAM.
+  - Fit Criterion: I do what I want.
 ### Nonfunctional Requirements
 - Real-time chat must be quick.
   - Rationale: If communication is delayed, it would cause hassle to the participants.
