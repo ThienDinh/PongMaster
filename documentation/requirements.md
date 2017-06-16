@@ -30,12 +30,12 @@
   - Fit Criterion: I do what I want.
 - Users who create a room and await for other players can see the global chat (lobby chat).
   - Rationale: Showing global chat helps players know that server is still online, also he or she can ask other players to join.
-  _ Originator: Thien.
-  _ Fit Criterion: Players should see the global chat continously updated.
-_ Users have to enter their names at the homepage, before going to the lobby.
-  _ Rationale: The game does not require players to create user account, so they have to enter their name everytime they come to the web game.
-  _ Originator: Thien.
-  _ Fit Criterion: Users should be able to create names using alphanumeric characters.
+  - Originator: Thien.
+  - Fit Criterion: Players should see the global chat continously updated.
+- Users have to enter their names at the homepage, before going to the lobby.
+  - Rationale: The game does not require players to create user account, so they have to enter their name everytime they come to the web game.
+  - Originator: Thien.
+  - Fit Criterion: Users should be able to create names using alphanumeric characters.
 ### Nonfunctional Requirements
 - Real-time chat must be quick.
   - Rationale: If communication is delayed, it would cause hassle to the participants.
