@@ -20,10 +20,10 @@
   - Rationale: The game only start if it has at least two players.
   - Originator: THANH PHAM.
   - Fit Criterion: Owner should be able to invite at least 1 player.
-- Room owner can kick other people out of the room.
-  - Rationale: The game only start if it has at least two players.
-  - Originator: THANH PHAM.
-  - Fit Criterion: Owner should be able to kick at most 1 player.
+- Host can set password when creating a room.
+  - Rationale: Setting room password will prevent unwanted players to join.
+  - Originator: Thien.
+  - Fit Criterion: Players should feel comfortable to host a room.
 - Users have the ability to quit the waiting room.
   - Rationale: There may be some toxic player.
   - Originator: THANH PHAM.
